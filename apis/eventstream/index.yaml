@@ -38,7 +38,6 @@ get:
             - light_client_optimistic_update
             - payload_attributes
             - data_column_sidecar
-            - execution_payload
             - execution_payload_gossip
             - execution_payload_available
             - execution_payload_bid
